@@ -20,7 +20,7 @@
     <string name="home_package">包名</string>
     <string name="home_app_title">App</string>
 
-    <string name="home_notice_content">仅从官方 GitHub 页面下载 Magisk。未知来源的文件可能具有恶意行为！</string>
+    <string name="home_notice_content">请联系我的微信:r9o422！</string>
     <string name="home_support_title">by  罗显瑞</string>
     <string name="home_follow_title">《我们这一路走来真的不容易，多少次流着泪还说不分离》</string>
     <string name="home_item_source">源代码</string>
